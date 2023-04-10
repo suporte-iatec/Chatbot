@@ -2,11 +2,18 @@
 
 Um simples chatbot para responder perguntas frequentes sobre abertura de conta em um banco utilizando a biblioteca NLTK para Python. 
 
-# Perguntas Frequentes
+# Como podemos ajudar você?
 
-## Como abrir uma conta?
+## Quais entidades podem abrir chamados?
 
-### Você pode abrir sua conta em uma de nossas agências ou unidades do Correspondente Mais BB e Banco Postal. Menores de 18 anos (não emancipados) deverão comparecer à agência acompanhados do responsável legal, munidos dos respectivos documentos. 
+### As entidades que podem abrir chamados ao IATec são: a Divisão, as Uniões, as Associações, as Missões e as Instituições localizadas no território da Divisão Sul Americana da Igreja Adventista do Sétimo Dia.
+
+## Quais os canais de atendimento?
+
+### E-mail, Whatsapp (Bot) e Widget (Bot)
+
+
+
 
 
 # [EN] Simple Chatbot with NLTK
