@@ -22,3 +22,41 @@ Prints: Enviar print completo da tela do sistema;
 Anexos: Se achar necessário, poderá enviar anexos;
 Dados de contato: Nome Completo, Telefone/Voip, E-mail e Função.
 
+## Quais os tipos de chamados? 
+
+### Tipo de chamados é o motivo da solicitação: Acesso - Chamados referentes a criação, configuração ou alteração de usuário, alteração de senha e liberação de funcionalidades ou entidades;
+Dúvida - Chamados com pedido de informações do sistema ou ajuda com a operação;
+Erro no Sistema - Chamados relatando erro no sistema ou erro de operação.
+Requisição Operacional - RO é para chamados solicitando orientações, configurações, ou treinamentos nos processos operacionais;
+Requisição Técnica - RT é para chamados com sugestão de melhoria, novas implantações, regulamentação, treinamento técnico ou licenciamento de softwares.
+
+## Como priorizar um chamado para atendimento? 
+
+### para priorizar um chamado você precisa levar em consideração a urgência e o impacto. O índice de impacto é definido em função do tempo que o sistema ficará parcialmente ou totalmente inoperante. A urgência, é atribuído um índice em função das atividades e operações que estão comprometidas pela ocorrência do problema. 
+
+## Quem faz os atendimentos das minhas demandas? 
+
+### A União com o Nível 1 e o IATec com o Nível 2 
+
+## Como posso acompanhar meus chamados? 
+
+### Os chamados abertos podem ser acompanhados por pelos canais de atendimento: Widget, Whatsapp e Respondendo o ticket aberto. Durante o acompanhamento o cliente pode solicitar priorizar o atendimento e/ou adicionar uma nota ao ticket com informações complementares ou observações. 
+
+## Como validar o atendimento? 
+
+### A validação consiste em confirmar se a solução do chamado foi satisfatória e informar via e-mail. O prazo para confirmação são 2 (dois) dias úteis. 
+
+## Como avaliar o atendimento? 
+
+### A avaliação é feita após o encerramento do chamado, onde será enviado um link para responder a pesquisa de satisfação com relação ao chamado atendido, a pesquisa avalia atendimento e solução. 
+
+
+
+
+
+
+
+
+
+
+
