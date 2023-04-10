@@ -14,9 +14,7 @@ Um simples chatbot para responder perguntas frequentes sobre abertura de conta e
 
 ## Quais informações necessária para abrir um chamado? 
 
-### Para abrir um chamado, envie um e-mail para suporte@iatec.com, conforme exemplo a seguir:
-Assunto: Código da Entidade - Sigla da entidade - Sigla do sistema - Motivo - Título do assunto;
-Exemplo: 1234 - UCB - 7Edu - Erro no Sistema - Erro
+### Para abrir um chamado, envie um e-mail para suporte@iatec.com, conforme exemplo a seguir: Assunto: Código da Entidade - Sigla da entidade - Sigla do sistema - Motivo - Título do assunto; Exemplo: 1234 - UCB - 7Edu - Erro no Sistema - Erro
 
 ### Corpo do E-mail:
 Descrição do Chamado: Descrever de forma detalhada a sua necessidade de suporte;
